@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AccountBusinessAccount.Entities.Account">
+    <Position X="0.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAEgAAAAEAAAAABAAAAAAAAAAAAI=</HashCode>
+      <FileName>Entities\Account.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AccountBusinessAccount.Entities.BusinessAccount">
+    <Position X="0.5" Y="3.5" Width="2.75" />
+    <InheritanceLine Type="AccountBusinessAccount.Entities.Account" FixedFromPoint="true">
+      <Path>
+        <Point X="1.875" Y="3.236" />
+        <Point X="1.875" Y="3.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAgAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\BusinessAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>

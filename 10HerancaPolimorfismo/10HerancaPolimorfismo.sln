@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccountBusinessAccount", "AccountBusinessAccount\AccountBusinessAccount.csproj", "{97DC8F62-51E3-4052-B294-5EC67B4D8B54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpcastingDowncasting", "UpcastingDowncasting\UpcastingDowncasting.csproj", "{BC43256B-7C72-4F7E-BB65-8ACF0F0123EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97DC8F62-51E3-4052-B294-5EC67B4D8B54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97DC8F62-51E3-4052-B294-5EC67B4D8B54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97DC8F62-51E3-4052-B294-5EC67B4D8B54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97DC8F62-51E3-4052-B294-5EC67B4D8B54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC43256B-7C72-4F7E-BB65-8ACF0F0123EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC43256B-7C72-4F7E-BB65-8ACF0F0123EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC43256B-7C72-4F7E-BB65-8ACF0F0123EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC43256B-7C72-4F7E-BB65-8ACF0F0123EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8D5F305-EC19-4529-B740-2948D62C8217}
+	EndGlobalSection
+EndGlobal
