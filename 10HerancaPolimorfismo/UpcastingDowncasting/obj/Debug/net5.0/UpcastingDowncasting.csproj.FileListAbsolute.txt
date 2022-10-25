@@ -1,0 +1,16 @@
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\UpcastingDowncasting\obj\Debug\net5.0\UpcastingDowncasting.csproj.AssemblyReference.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\UpcastingDowncasting\obj\Debug\net5.0\UpcastingDowncasting.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\UpcastingDowncasting\obj\Debug\net5.0\UpcastingDowncasting.AssemblyInfoInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\UpcastingDowncasting\obj\Debug\net5.0\UpcastingDowncasting.AssemblyInfo.cs
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\UpcastingDowncasting\obj\Debug\net5.0\UpcastingDowncasting.csproj.CoreCompileInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\UpcastingDowncasting\bin\Debug\net5.0\UpcastingDowncasting.exe
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\UpcastingDowncasting\bin\Debug\net5.0\UpcastingDowncasting.deps.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\UpcastingDowncasting\bin\Debug\net5.0\UpcastingDowncasting.runtimeconfig.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\UpcastingDowncasting\bin\Debug\net5.0\UpcastingDowncasting.runtimeconfig.dev.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\UpcastingDowncasting\bin\Debug\net5.0\UpcastingDowncasting.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\UpcastingDowncasting\bin\Debug\net5.0\ref\UpcastingDowncasting.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\UpcastingDowncasting\bin\Debug\net5.0\UpcastingDowncasting.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\UpcastingDowncasting\obj\Debug\net5.0\UpcastingDowncasting.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\UpcastingDowncasting\obj\Debug\net5.0\ref\UpcastingDowncasting.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\UpcastingDowncasting\obj\Debug\net5.0\UpcastingDowncasting.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\UpcastingDowncasting\obj\Debug\net5.0\UpcastingDowncasting.genruntimeconfig.cache
