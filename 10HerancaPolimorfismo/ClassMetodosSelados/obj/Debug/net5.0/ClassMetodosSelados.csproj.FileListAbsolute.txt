@@ -1,0 +1,16 @@
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassMetodosSelados\bin\Debug\net5.0\ClassMetodosSelados.exe
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassMetodosSelados\bin\Debug\net5.0\ClassMetodosSelados.deps.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassMetodosSelados\bin\Debug\net5.0\ClassMetodosSelados.runtimeconfig.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassMetodosSelados\bin\Debug\net5.0\ClassMetodosSelados.runtimeconfig.dev.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassMetodosSelados\bin\Debug\net5.0\ClassMetodosSelados.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassMetodosSelados\bin\Debug\net5.0\ref\ClassMetodosSelados.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassMetodosSelados\bin\Debug\net5.0\ClassMetodosSelados.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassMetodosSelados\obj\Debug\net5.0\ClassMetodosSelados.csproj.AssemblyReference.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassMetodosSelados\obj\Debug\net5.0\ClassMetodosSelados.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassMetodosSelados\obj\Debug\net5.0\ClassMetodosSelados.AssemblyInfoInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassMetodosSelados\obj\Debug\net5.0\ClassMetodosSelados.AssemblyInfo.cs
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassMetodosSelados\obj\Debug\net5.0\ClassMetodosSelados.csproj.CoreCompileInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassMetodosSelados\obj\Debug\net5.0\ClassMetodosSelados.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassMetodosSelados\obj\Debug\net5.0\ref\ClassMetodosSelados.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassMetodosSelados\obj\Debug\net5.0\ClassMetodosSelados.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassMetodosSelados\obj\Debug\net5.0\ClassMetodosSelados.genruntimeconfig.cache
