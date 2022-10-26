@@ -23,6 +23,9 @@ namespace UpcastingDowncasting
             acc4.Loan(100.0);
 
             // BusinessAccount acc5 = (BusinessAccount)acc3;
+
+            //is chek se variavel cc3 é instancia de (BusinessAccount )
+            //vai retornar false pois acc3 é SavingsAccount
             if (acc3 is BusinessAccount)
             {
                 //BusinessAccount acc5 = (BusinessAccount)acc3;
@@ -30,7 +33,7 @@ namespace UpcastingDowncasting
                 acc5.Loan(200.0);
                 Console.WriteLine("Loan!");
             }
-
+            //neste caso vai retornar true pois acc3 é SavingsAccount
             if (acc3 is SavingsAccount)
             {
                 //SavingsAccount acc5 = (SavingsAccount)acc3;

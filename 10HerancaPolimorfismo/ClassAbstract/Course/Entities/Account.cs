@@ -16,7 +16,7 @@
             Holder = holder;
             Balance = balance;
         }
-
+        //Withdraw retirada sacar
         public virtual void Withdraw(double amount)
         {
             Balance -= amount + 5.0;

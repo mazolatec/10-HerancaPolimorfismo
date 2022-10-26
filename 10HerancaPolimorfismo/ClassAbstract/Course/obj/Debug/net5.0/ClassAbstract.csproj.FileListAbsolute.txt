@@ -1,0 +1,16 @@
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassAbstract\Course\bin\Debug\net5.0\ClassAbstract.exe
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassAbstract\Course\bin\Debug\net5.0\ClassAbstract.deps.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassAbstract\Course\bin\Debug\net5.0\ClassAbstract.runtimeconfig.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassAbstract\Course\bin\Debug\net5.0\ClassAbstract.runtimeconfig.dev.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassAbstract\Course\bin\Debug\net5.0\ClassAbstract.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassAbstract\Course\bin\Debug\net5.0\ref\ClassAbstract.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassAbstract\Course\bin\Debug\net5.0\ClassAbstract.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassAbstract\Course\obj\Debug\net5.0\ClassAbstract.csproj.AssemblyReference.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassAbstract\Course\obj\Debug\net5.0\ClassAbstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassAbstract\Course\obj\Debug\net5.0\ClassAbstract.AssemblyInfoInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassAbstract\Course\obj\Debug\net5.0\ClassAbstract.AssemblyInfo.cs
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassAbstract\Course\obj\Debug\net5.0\ClassAbstract.csproj.CoreCompileInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassAbstract\Course\obj\Debug\net5.0\ClassAbstract.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassAbstract\Course\obj\Debug\net5.0\ref\ClassAbstract.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassAbstract\Course\obj\Debug\net5.0\ClassAbstract.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassAbstract\Course\obj\Debug\net5.0\ClassAbstract.genruntimeconfig.cache

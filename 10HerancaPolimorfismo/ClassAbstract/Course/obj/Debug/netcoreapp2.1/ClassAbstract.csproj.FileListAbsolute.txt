@@ -1,0 +1,13 @@
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassAbstract\Course\bin\Debug\netcoreapp2.1\ClassAbstract.deps.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassAbstract\Course\bin\Debug\netcoreapp2.1\ClassAbstract.runtimeconfig.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassAbstract\Course\bin\Debug\netcoreapp2.1\ClassAbstract.runtimeconfig.dev.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassAbstract\Course\bin\Debug\netcoreapp2.1\ClassAbstract.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassAbstract\Course\bin\Debug\netcoreapp2.1\ClassAbstract.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassAbstract\Course\obj\Debug\netcoreapp2.1\ClassAbstract.csproj.AssemblyReference.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassAbstract\Course\obj\Debug\netcoreapp2.1\ClassAbstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassAbstract\Course\obj\Debug\netcoreapp2.1\ClassAbstract.AssemblyInfoInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassAbstract\Course\obj\Debug\netcoreapp2.1\ClassAbstract.AssemblyInfo.cs
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassAbstract\Course\obj\Debug\netcoreapp2.1\ClassAbstract.csproj.CoreCompileInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassAbstract\Course\obj\Debug\netcoreapp2.1\ClassAbstract.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassAbstract\Course\obj\Debug\netcoreapp2.1\ClassAbstract.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\ClassAbstract\Course\obj\Debug\netcoreapp2.1\ClassAbstract.genruntimeconfig.cache
