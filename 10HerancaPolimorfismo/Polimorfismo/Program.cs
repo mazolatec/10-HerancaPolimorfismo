@@ -30,6 +30,7 @@ namespace Polimorfismo
                 {
                     Console.Write("Additional charge: ");
                     double additionalCharge = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                    //Outsourced Terceizado
                     list.Add(new OutsourcedEmployee(name, hours, valuePerHour, additionalCharge));
                 }
                 else

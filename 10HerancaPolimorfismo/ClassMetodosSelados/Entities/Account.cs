@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿
 using System.Globalization;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace AccountBusinessAccount.Entities
 {
@@ -14,7 +11,8 @@ namespace AccountBusinessAccount.Entities
         // Holder Titular
         public string Holder { get; private set; }
         //Saldo Balance
-        public double Balance { get; protected set; } //protected consigo modificar em outras classes do mesmo assembly
+        //protected consigo modificar em outras classes do mesmo assembly
+        public double Balance { get; protected set; } 
 
         public Account() { }
 
