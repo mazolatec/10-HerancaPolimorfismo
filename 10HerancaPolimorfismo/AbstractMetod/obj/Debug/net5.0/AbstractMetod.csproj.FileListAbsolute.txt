@@ -1,0 +1,15 @@
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\AbstractMetod\bin\Debug\net5.0\AbstractMetod.exe
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\AbstractMetod\bin\Debug\net5.0\AbstractMetod.deps.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\AbstractMetod\bin\Debug\net5.0\AbstractMetod.runtimeconfig.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\AbstractMetod\bin\Debug\net5.0\AbstractMetod.runtimeconfig.dev.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\AbstractMetod\bin\Debug\net5.0\AbstractMetod.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\AbstractMetod\bin\Debug\net5.0\ref\AbstractMetod.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\AbstractMetod\bin\Debug\net5.0\AbstractMetod.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\AbstractMetod\obj\Debug\net5.0\AbstractMetod.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\AbstractMetod\obj\Debug\net5.0\AbstractMetod.AssemblyInfoInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\AbstractMetod\obj\Debug\net5.0\AbstractMetod.AssemblyInfo.cs
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\AbstractMetod\obj\Debug\net5.0\AbstractMetod.csproj.CoreCompileInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\AbstractMetod\obj\Debug\net5.0\AbstractMetod.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\AbstractMetod\obj\Debug\net5.0\ref\AbstractMetod.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\AbstractMetod\obj\Debug\net5.0\AbstractMetod.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\10-HerancaPolimorfismo\10HerancaPolimorfismo\AbstractMetod\obj\Debug\net5.0\AbstractMetod.genruntimeconfig.cache
