@@ -26,7 +26,7 @@ namespace Course
 
             foreach (Account acc in list)
             {  
-                //Palavra is procura variavel o tipo
+                //Palavra is procura nas instancias da list qual classe
                 if (acc is SavingsAccount)
                 {
                     acc.Withdraw(100);
